@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="630" viewBox="0 0 1200 630" fill="none">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1200" y2="630" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#0A0D13"/>
+      <stop offset="1" stop-color="#141923"/>
+    </linearGradient>
+    <radialGradient id="glow1" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(220 30) rotate(28) scale(600 300)">
+      <stop stop-color="#7C5CFF" stop-opacity="0.45"/>
+      <stop offset="1" stop-color="#7C5CFF" stop-opacity="0"/>
+    </radialGradient>
+    <radialGradient id="glow2" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(980 60) rotate(140) scale(440 220)">
+      <stop stop-color="#9E8CFF" stop-opacity="0.28"/>
+      <stop offset="1" stop-color="#9E8CFF" stop-opacity="0"/>
+    </radialGradient>
+  </defs>
+
+  <rect width="1200" height="630" fill="url(#bg)"/>
+  <rect width="1200" height="630" fill="url(#glow1)"/>
+  <rect width="1200" height="630" fill="url(#glow2)"/>
+
+  <rect x="68" y="76" width="1064" height="478" rx="22" fill="rgba(255,255,255,0.03)" stroke="rgba(255,255,255,0.14)"/>
+
+  <text x="118" y="188" fill="#B6A7FF" font-family="Sora, Arial, sans-serif" font-size="28" letter-spacing="7">K10BLOG</text>
+  <text x="118" y="286" fill="#F4F1FF" font-family="Newsreader, Georgia, serif" font-size="78" font-weight="700">Cinematic Essays</text>
+  <text x="118" y="360" fill="#E2DEFF" font-family="Newsreader, Georgia, serif" font-size="38">Filmmaking, Storytelling, Editing Philosophy</text>
+
+  <text x="118" y="466" fill="#C0B6E6" font-family="Sora, Arial, sans-serif" font-size="24">between-frames.github.io/K10Blog</text>
+</svg>
