@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://between-frames.github.io/K10Blog/sitemap-index.xml
